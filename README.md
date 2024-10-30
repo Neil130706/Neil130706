@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Neil130706, a computer science student and developer-in-training.
+- 👀 I’m interested in building tech solutions that make a real impact, especially in healthcare, wellness, and education.
+- 🌱 I’m currently learning Python and diving deeper into programming and development at Colegio de Los Banos.
+- 💞️ I’m looking to collaborate on projects that use technology for positive change, whether in health education, productivity tools, or creative media.
+- 📫 How to reach me at rallosneilkirk130706@gmail.com
+- ⚡ Fun fact: I’ve been a trombone player in my band for five years and love creating things that bring people together—whether through music, games, or tech!
